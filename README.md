@@ -26,20 +26,7 @@ This project analyzes job market trends and in-demand skills for data science ro
 │   ├── job_postings.csv
 │   ├── job_skills.csv
 │   ├── job_summary.csv
-├── output/
-│   ├── cleaned_dataset.csv
-│   ├── top_job_titles_bar_chart.png
-│   ├── top_companies_bar_chart.png
-│   ├── top_cities_bar.png
-│   ├── top_countries_map.png
-│   ├── skill_wordcloud.png
-│   ├── top_skills_bar.png
-│   ├── skill_by_level_grouped_bar.png
-│   ├── company_skill_demand_chart.png
-├── notebooks/
-│   └── skill_trend_analysis.ipynb
-├── report/
-│   └── final_project_report.pdf
+├── final_project_report.pdf
 ├── README.md
 ```
 
